@@ -1,5 +1,5 @@
 # Multi-Threaded-Tool-Set
-Multi-Threaded python-based utilities for cracking and bruteforcing
+Multi-Threaded python-based utilities for Blazing Fast cracking and bruteforcing
 
 Tools:
 
